@@ -33,7 +33,7 @@
   .bird {
     --bird-top: -1000;
     --bird-size: 60px;
-    background-image: url("/assets/images/172px-Twitter_bird_logo_2012.svg.png");
+    background-image: url("https://chipster26.github.io/FAKE_FLAPPY_BIRD/assets/images/172px-Twitter_bird_logo_2012.svg.png");
     position: absolute;
     width: var(--bird-size);
     height: var(--bird-size);
